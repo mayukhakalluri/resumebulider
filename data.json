@@ -1,0 +1,50 @@
+{
+  "profile":
+  {
+    "name":"MAYUKHA",
+    "label":"it dept",
+    "email":"mayukhakalluri@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+
+
+  },
+  "education":[
+    {
+      "degree":"B.Tech(IT)",
+      "institute":"pvp siddartha institute of technology",
+      "data":["2016-2020"],
+      "gpa":"8.3"
+    },
+    {"degree":"INTERMEDIATE(M.P.C)",
+      "institute":"CHAITANYA",
+      "data":["2014-2016"],
+        "gpa":"9.1"
+    },
+    {"degree":"SSC",
+      "institute":"Excellent high School",
+      "data":["2002-2014"],
+        "gpa":"9.0"
+    }
+  ],
+  "skills":[
+    {
+      "title":"languages",
+      "content":["c","python","java","c#","PHP","R"]
+    },
+    {
+      "title":"Database",
+      "content":["SQL","MongoDB","MySQL"]
+    },
+    {
+      "title":"Web Technology",
+      "content":["HTML","CSS","JavaScript","PHP"]
+    },
+    {
+      "title":"FrameWorks",
+      "content":["Django","CodeIgniter"]
+    }
+  ]
+  
+}
